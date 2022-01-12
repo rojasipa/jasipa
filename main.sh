@@ -1,3 +1,0 @@
-cpulas
-ls
-mainajalah
